@@ -50,7 +50,7 @@ public class RockPaperScissors{
             //Exit Application
             if(menuchoice.equals(3)){
                 System.out.println("Thank you for playing!");
-                repeat = "n";
+                break;
             }
 
             }
