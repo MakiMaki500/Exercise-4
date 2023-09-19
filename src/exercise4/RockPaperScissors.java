@@ -46,6 +46,7 @@ public class RockPaperScissors{
                     System.out.println("1. Rock");
                     System.out.println("2. Paper");
                     System.out.println("3. Scissors"); 
+                    int moveChoice = Integer.parseInt(sc.nextLine());
                 }
             }
 
